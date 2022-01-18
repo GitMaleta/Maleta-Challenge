@@ -6,7 +6,7 @@ Essa fase consiste na criação de uma simples página utilizando React. A const
 ## Descrição do desafio
 
 - Criar uma página com uma listagem de obras com informações básicas (Nome da obra, Cidade e Estado), usando como modelo o arquivo **`listagem-obras.png`** presente na pasta **`desafio`**.
-- Carregar os dados de obras do arquivo **`obras.json`** presente na pasta **`desafio`**, e exibir como listagem padrão ao executar a aplicação.
+- Carregar os dados das obras do arquivo **`obras.json`** presente na pasta **`desafio`**, e exibir como listagem padrão ao executar a aplicação.
 - Permitir a inclusão de novas obras com um cadastro simples.
 - Permitir a exclusão das obras.
 
