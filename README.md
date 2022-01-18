@@ -15,4 +15,10 @@ Essa fase consiste na criação de uma simples página utilizando React. A const
 - Todos os campos do cadastro podem ser do tipo texto (input), e não é necessário ter validação dos nomes e relação de Cidade e Estado.
 - Não é necessário persistir ou enviar os dados do cadastro para alguma API ou serviço externo.
 - A aplicação deve rodar localmente sem depender de nenhum serviço externo.
+- Não utilize soluções prontas.
+- É permitido inovar e acrescentar funcionalidades que você avaliar necessárias para a solução.
+
+## Envio da solução
+
+- Você deverá criar um fork deste repositório e incluir o seu código fonte na pasta **`src`**.
 - Suas informações pessoais e os passos para executar a aplicação, devem ser descritos no arquivo **`candidato.md`** na pasta **`desafio`**
