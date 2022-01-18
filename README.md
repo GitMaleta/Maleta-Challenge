@@ -5,8 +5,8 @@ Essa fase consiste na criação de uma simples página utilizando React. A const
 
 ## Descrição do desafio
 
-- Criar uma página com uma listagem de obras com informações básicas (Nome da obra, Cidade e Estado), usando como modelo o arquivo **`listagem-obras.png`** na pasta **`desafio`**.
-- Carregar os dados do arquivo **`obras.json`** na pasta **`desafio`**, e exibir como listagem padrão ao executar a aplicação.
+- Criar uma página com uma listagem de obras com informações básicas (Nome da obra, Cidade e Estado), usando como modelo o arquivo **`listagem-obras.png`** presente na pasta **`desafio`**.
+- Carregar os dados do arquivo **`obras.json`** presente na pasta **`desafio`**, e exibir como listagem padrão ao executar a aplicação.
 - Permitir a inclusão de novas obras com um cadastro simples.
 - Permitir a exclusão das obras.
 
@@ -21,4 +21,4 @@ Essa fase consiste na criação de uma simples página utilizando React. A const
 ## Envio da solução
 
 - Você deverá criar um fork deste repositório e incluir o seu código fonte na pasta **`src`**.
-- Suas informações pessoais e os passos para executar a aplicação, devem ser descritos no arquivo **`candidato.md`** na pasta **`desafio`**
+- Suas informações pessoais e os passos para executar a aplicação, devem ser descritos no arquivo **`candidato.md`** presente na pasta **`desafio`**
