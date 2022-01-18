@@ -1,0 +1,17 @@
+[
+    {
+      "obraNome": "Obra XYZ",
+      "cidade": "São Paulo",
+      "estado": "SP",
+    },
+	{
+      "obraNome": "Obra Empresa TAL",
+      "cidade": "Goiânia",
+      "estado": "GO",
+    },
+	{
+      "obraNome": "Casa João da Silva",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+    }
+]
