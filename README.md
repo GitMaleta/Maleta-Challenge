@@ -21,4 +21,4 @@ Essa fase consiste na criação de uma simples página utilizando React. A const
 ## Envio da solução
 
 - Você deverá criar um fork deste repositório e incluir o seu código fonte na pasta **`src`**.
-- Suas informações pessoais e os passos para executar a aplicação, devem ser descritos no arquivo **`candidato.md`** presente na pasta **`desafio`**
+- Suas informações pessoais e os passos para executar a aplicação, devem ser descritos no arquivo **`candidato.md`** presente na pasta **`desafio`**.
