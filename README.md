@@ -1,6 +1,6 @@
 # Desafio Maleta - React
 
-Você foi selecionado para a próxima fase do processo seletivo.
+Você foi selecionado para a próxima fase do processo seletivo.<br />
 Essa fase consiste na criação de uma simples página utilizando React. A construção deve seguir os requisitos descritos abaixo.
 
 ## Descrição do desafio
