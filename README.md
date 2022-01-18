@@ -12,7 +12,7 @@ Essa fase consiste na criação de uma simples página utilizando React. A const
 
 ## Informações
 
-- Todos os campos do cadastro podem ser do tipo texto (input), e não é obrigatório ter validação dos nomes e relação de Cidade e Estado.
+- Todos os campos do cadastro podem ser do tipo texto (input), e não é obrigatório realizar validações dos nomes e relação dos campos Cidade e Estado.
 - Não é necessário persistir ou enviar os dados do cadastro para alguma API ou serviço externo.
 - A aplicação deve rodar localmente sem depender de nenhum serviço externo.
 - Não utilize soluções prontas.
